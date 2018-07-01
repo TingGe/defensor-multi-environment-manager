@@ -24,5 +24,6 @@
     }
   ],
   "web_accessible_resources": ["js/inject.js"],
-  "default_locale": "zh"
+  "default_locale": "en",
+  "author": "TingGe<505253293@163.com>"
 }
