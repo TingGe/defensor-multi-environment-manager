@@ -23,7 +23,7 @@
 
 ## 安装
 
-Chrome 浏览器访问 [https://chrome.google.com/webstore/detail/multiple-environmental-ma/ehboglklfbenahbjndhnpkicglekincp](https://chrome.google.com/webstore/detail/multiple-environmental-ma/ehboglklfbenahbjndhnpkicglekincp) 直接安装。
+ [Chrome Web Store](https://chrome.google.com/webstore/detail/multiple-environmental-ma/ehboglklfbenahbjndhnpkicglekincp) 直接安装。
 
 ## 使用
 
