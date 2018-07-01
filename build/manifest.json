@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "__MSG_name__",
   "description": "__MSG_description__",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "browser_action": {
     "default_title": "__MSG_name__",
     "default_icon": "icon16.png",
@@ -24,5 +24,5 @@
     }
   ],
   "web_accessible_resources": ["js/inject.js"],
-  "default_locale": "en"
+  "default_locale": "zh"
 }
