@@ -23,7 +23,9 @@
 
 ## 安装
 
- [Chrome Web Store](https://chrome.google.com/webstore/detail/multiple-environmental-ma/ehboglklfbenahbjndhnpkicglekincp) 直接安装。
+方式一：在 Chrome 商店搜索 multi-env-switch 安装；
+
+方式二：直接访问 [Chrome Web Store](https://chrome.google.com/webstore/detail/multiple-environmental-ma/ehboglklfbenahbjndhnpkicglekincp) 安装。
 
 ## 使用
 
