@@ -1,7 +1,7 @@
 {
   "name": {
-    "message": "Multiple-environmental management",
-    "description": ""
+    "message": "multi-env-switch",
+    "description": "Multiple-environmental management"
   },
   "description": {
     "message": "A multi-environment management and fast switching solution.",

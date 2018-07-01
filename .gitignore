@@ -9,4 +9,6 @@ yarn-error.log*
 .chrome/
 *.orig
 *.pem
+*.crx
+*.zip
 

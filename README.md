@@ -1,4 +1,4 @@
-# Chrome Extension for multi-environment switching management
+# Chrome Extension for multi-environment switching management(multi-env-switch)
 
 > A multi-environment switching management solution.
 
@@ -6,9 +6,7 @@
 
 ## Installation
 
-1. Download [multi-env-switch.crx](https://github.com/TingGe/multi-env-switch/raw/master/multi-env-switch.crx)；
-2. Go to `chrome://extensions` in Google Chrome
-3. With the developer mode checkbox ticked, click **Load unpacked extension...** and select the `build` folder from this repo
+Install it from [Chrome Web Store](https://chrome.google.com/webstore/detail/multiple-environmental-ma/ehboglklfbenahbjndhnpkicglekincp).
 
 
 ## Demo
@@ -22,3 +20,21 @@ Demo :
 Options : 
 
 ![Options](https://github.com/TingGe/multi-env-switch/raw/master/assets/options.png)
+
+
+
+## Contributing
+
+1. Download the project
+
+   ```Bash
+   git clone https://github.com/TingGe/multi-env-switch.git
+   cd multi-env-switch
+   yarn
+   yarn build 
+   # 或 yarn watch
+   ```
+
+2. Go to `chrome://extensions` in Google Chrome
+
+3. With the developer mode checkbox ticked, click **Load unpacked extension...** and select the `build` folder from this repo
