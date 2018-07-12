@@ -7,7 +7,7 @@
 This is a demo environment list document in the Markdown format.
 Please set the environment list address in the Markdown format of your own R&D team in [This extension's options page](chrome-extension://ehboglklfbenahbjndhnpkicglekincp/options.html). As in this example:
 
-[https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/multi-env-list.md](https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/ Multi-env-list.md)
+[https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/multi-env-list.md(https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/ Multi-env-list.md)
 
 
 
