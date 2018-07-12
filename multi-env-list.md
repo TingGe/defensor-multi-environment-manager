@@ -1,3 +1,17 @@
+## 注意事项 Note
+
+这是一个 Markdown 格式的环境列表文档。
+请在[该扩展的选项页](chrome-extension://ehboglklfbenahbjndhnpkicglekincp/options.html)中设置成自己研发团队的 Markdown 格式的环境列表地址。如本示例中的：
+[https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/multi-env-list.md](https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/multi-env-list.md)
+
+This is an environment list document in Markdown format.
+Please set the environment list address in the Markdown format of your own R&D team in [This extension's options page](chrome-extension://ehboglklfbenahbjndhnpkicglekincp/options.html). As in this example:
+
+[https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/multi-env-list.md](https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/ Multi-env-list.md)
+
+
+
+
 #### **开发阶段**
 
 | 环境名称 | **部署分支** | **主要用途** | **使用人员** |
@@ -18,3 +32,4 @@
 
 [环境列表维护](https://github.com/TingGe/multi-env-switch/edit/master/multi-env-list.md)
 [反馈建议](https://github.com/TingGe/multi-env-switch/issues)
+
