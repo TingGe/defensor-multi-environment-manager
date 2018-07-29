@@ -11,6 +11,10 @@
     "message": "Environment list",
     "description": ""
   },
+  "openEnvList": {
+    "message": "Open then environment list",
+    "description": ""
+  },
   "author": {
     "message": "Kevin<505253293@163.com>",
     "description": ""
