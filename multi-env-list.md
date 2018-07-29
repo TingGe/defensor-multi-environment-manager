@@ -2,7 +2,7 @@
 
 这是一个演示的 Markdown 格式的环境列表文档。
 
-请在[该扩展的选项页](chrome-extension://ehboglklfbenahbjndhnpkicglekincp/options.html)中设置自己研发团队的 Markdown 格式的环境列表地址。
+请在[该扩展的选项页](/options.html)中设置自己研发团队的 Markdown 格式的环境列表地址。
 
 文档模版可参考本示例中的 [https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/multi-env-list.md](https://raw.githubusercontent.com/TingGe/multi-environment-manager/master/multi-env-list.md) 来编写自己的环境列表文档。
 
