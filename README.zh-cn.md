@@ -1,6 +1,6 @@
 # 多环境管理 Chrome 扩展（multi-env-switch）
 
-> 一个多环境管理和快速切换的解决方案。
+> 俗称 “大M”。一个多环境管理和快速切换的 Chrome 扩展。
 
 ![](https://github.com/TingGe/multi-environment-manager/raw/618796eb6ef60d9640c1fa60c0b0a9afe2e85d13/multi-environment-manager/icon48.png)
 
