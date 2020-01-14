@@ -35,7 +35,7 @@ export function insertScript(jsPath) {
   temp.setAttribute("type", "text/javascript");
   temp.src = chrome.extension.getURL(jsPath);
   temp.onload = function() {
-    this.parentNode.removeChild(this);
+    temp.parentNode.removeChild(temp);
   };
   document.head.appendChild(temp);
 }

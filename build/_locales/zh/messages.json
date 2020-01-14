@@ -4,15 +4,15 @@
     "description": "多环境管理"
   },
   "description": {
-    "message": "一个多环境管理和快速切换的解决方案。",
+    "message": "一个多环境管理和快速切换的解决方案",
     "description": ""
   },
   "popTitle": {
-    "message": "环境列表",
+    "message": "",
     "description": ""
   },
   "openEnvList": {
-    "message": "查看环境列表",
+    "message": "查看文档",
     "description": ""
   },
   "author": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "sourceUrlLabel": {
-    "message": "Markdown 格式环境列表文档地址",
+    "message": "Markdown 格式文档地址",
     "description": ""
   },
   "isUrlMessage": {

@@ -1,4 +1,4 @@
-// 默认(Markdown 格式文档)的环境列表地址
+// 默认(Markdown 格式文档)的地址
 export const defaultMarkDownSourceUrl =
   "https://github.com/TingGe/multi-environment-manager/raw/master/multi-env-list.md";
 
