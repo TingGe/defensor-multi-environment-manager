@@ -1,6 +1,6 @@
 ## 注意事项 Note
 
-<hr/>
+<hr style="min-width: 600px" />
 
 
 这是一个演示的 Markdown 格式的环境列表文档。
